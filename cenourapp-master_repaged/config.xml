@@ -16,7 +16,7 @@ Sérgio Lopes / Alterado por Thiago Duarte
 <preference name="orientation" value="portrait"/>
 <preference name="android-minSdkVersion" value="16" />
 <gap:platform name="android" />
-<plugin name="cordova-plugin-splashscreen" />
 <icon src="imagens/icon.png" />
+<plugin name="cordova-plugin-splashscreen" />
 <gap:splash src="imagens/splash.png" />
 </widget>
